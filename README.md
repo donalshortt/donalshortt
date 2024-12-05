@@ -2,7 +2,7 @@
 
 I'm a student and hobbyist game developer. 
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,scala,js,nodejs,html,css,bootstrap,pug,vue,python,cs,bash,postman,kubernetes,docker,neovim,bevy,blender,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,scala,js,nodejs,python,cs,bash,html,css,bootstrap,pug,vue,postman,kubernetes,docker,neovim,bevy,blender,linux,arch)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats 📊</summary>
