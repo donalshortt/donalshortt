@@ -1,4 +1,4 @@
-## Hi there, 👋 I'm Donal
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Donal
 
 I'm a student and hobbyist game developer. 
 
