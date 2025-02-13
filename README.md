@@ -8,8 +8,8 @@ I'm a student and hobbyist game developer.
 
 <p align="center">
 <a href="https://github.com/donalshortt">
-[![Donal's GitHub stats](https://github-readme-stats-lime-ten-26.vercel.app/api?username=donalshortt&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/donalshortt/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-lime-ten-26.vercel.app/api/top-langs/?username=donalshortt&theme=transparent)](https://github.com/donalshortt/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats-lime-ten-26.vercel.app/api?username=donalshortt&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-lime-ten-26.vercel.app/api/top-langs/?username=donalshortt&theme=transparent" />
 </a>
 </p>
