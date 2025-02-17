@@ -12,7 +12,7 @@ I'm a student and hobbyist game developer.
 
 <p align="center">
   <a href="https://github.com/donalshortt">
-  <img height="180em" src="https://github-readme-stats-lime-ten-26.vercel.app/api?username=donalshortt&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats-lime-ten-26.vercel.app/api?username=donalshortt&show_icons=true&theme=transparent&include_all_commits=true" />
   
   <img height="180em" src="https://github-readme-stats-lime-ten-26.vercel.app/api/top-langs/?username=donalshortt&theme=transparent&layout=compact" />
   </a>
