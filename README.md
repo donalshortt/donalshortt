@@ -5,7 +5,7 @@ I'm a software engineer and hobbyist game developer.
 ### Languages / Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,ts,nodejs,laravel,python,bash,vue,angular,docker,neovim,bevy,linux" />
+<img src="https://skillicons.dev/icons?i=rust,ts,php,laravel,vue,angular,bevy" />
 </p>
 
 ### Github Analytics
